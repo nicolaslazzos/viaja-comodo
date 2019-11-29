@@ -1,0 +1,2 @@
+# viaja-comodo
+Aplicación simple que hice a fines de 2017 mientras estaba aprendiendo un poco de Android con Java y utilizando una base de datos local SQLite. La aplicación te permite tener un listado en donde uno va calificando los colectivos que usa regularmente, de esta forma, antes de subirse uno puede consultar si lo tiene en su lista para evitarlo en caso de que ese coche sea muy incomodo o este en mal estado.
