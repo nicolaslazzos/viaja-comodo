@@ -1,0 +1,56 @@
+<resources>
+    <!--MAIN ACTIVITY-->
+    <string name="app_name">Viaja Comodo</string>
+    <string name="deseaEliminarColectivo">Esta seguro que desea eliminar el colectivo seleccionado?</string>
+    <!--OPCIONES DE LA BARRA PRINCIPAL-->
+    <string name="action_settings">Administrar Empresas</string>
+    <string name="opcionExportarBD">Exportar Base de Datos</string>
+    <string name="seExporto">La base de datos se exporto correctamente!</string>
+    <string name="noSeExporto">La base de datos no se pudo exportar!</string>
+    <string name="opcionImportarBD">Importar Base de Datos</string>
+    <string name="abrirArchivo">Abrir Archivo</string>
+    <string name="archivoInvalido">Archivo invalido...</string>
+    <string name="seImporto">La base de datos se importo correctamente!</string>
+    <string name="noSeImporto">La base de datos no se pudo importar!</string>
+    <string name="hintBuscar">Buscar colectivo por numero</string>
+    <!--ACTIVITY AGREGAR NUEVO COLECTIVO-->
+    <string name="addNewTitle">Nuevo Colectivo</string>
+    <string name="lblEmpresa">Empresa:</string>
+    <string name="lblNumeroBondi">Numero:</string>
+    <string name="lblCalificacion">Calificacion:</string>
+    <string name="rbtExcelente">Excelente</string>
+    <string name="rbtBueno">Bueno</string>
+    <string name="rbtRegular">Regular</string>
+    <string name="rbtMalo">Malo</string>
+    <string name="lblObservaciones">Observaciones:</string>
+    <string name="cmdCancelar">Cancelar</string>
+    <string name="cmdGuardar">Guardar</string>
+    <string name="seleccione">Seleccione</string>
+    <string name="debeSeleccionarEmpresa">Debe seleccionar una empresa!</string>
+    <string name="debeIngresarNumero">Debe ingresar un numero de colectivo!</string>
+    <string name="yaExiste">El colectivo ingresado ya existe!</string>
+    <string name="debeSeleccionarCalificacion">Debe seleccionar una calificacion!</string>
+    <string name="seGuardo">Se guardo correctamente!</string>
+    <!--CUADRO DIALOGO EDITAR COLECTIVO-->
+    <string name="editarColectivo">Editar Colectivo</string>
+    <!--CUADRO DIALOGO DESEA CANCELAR-->
+    <string name="confirmar">Confirmar</string>
+    <string name="deseaCancelar">Esta seguro que desea cancelar?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <!--CUADRO DIALOGO AGREGAR NUEVA EMPRESA-->
+    <string name="nuevaEmpresa">Nombre:</string>
+    <string name="nuevaEmpresaTitle">Agregar Empresa</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="debeIngresarEmpresa">Debe ingresar el nombre de la empresa!</string>
+    <string name="empresaExiste">La empresa ingresada ya existe!</string>
+    <!--ACTIVITY ADMINISTRAR EMPRESAS-->
+    <string name="title_activity_empresas">Administrar Empresas</string>
+    <!--OPCIONES DE EMPRESAS-->
+    <string name="opcionEliminarEmpresa">Eliminar</string>
+    <string name="opcionEditarEmpresa">Editar</string>
+    <string name="titleEditarEmpresa">Editar Nombre</string>
+    <string name="estaSeguro">Esta seguro?</string>
+    <string name="deseaEliminarEmpresa">Si elimina la empresa se eliminaran todos los colectivos asociados</string>
+</resources>
